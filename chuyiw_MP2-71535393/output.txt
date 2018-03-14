@@ -1,0 +1,367 @@
+Database connection established
+question:
+Sir Gerad Abad Antes, 5752, 7504
+David Sanchez Ayala, 3955, 4251
+Dayue Bai, 4124, 5254
+Krishen Bhan, 1425, 7875
+Dennis Bui, 3633, 9985
+Yushi Cai, 7878, 6966
+Jeffrey Bigcas Cando, 4122, 7544
+Jimi Cao, 7887, 1422
+Aaron Justin Garcia Catarroja, 7588, 7888
+Omar Iqbal Chaudhry, 6968, 4588
+Cheyenne Marie Chavez, 8756, 6322
+Bolin Chen, 2536, 2222
+Hanlu Chen, 5558, 3633
+Jessica Chen, 8555, 7888
+Luke Chen, 4648, 2130
+Austin Chiang, 9999, 8555
+Lawrence Chong, 2555, 3634
+Pui Yin Roy Chow, 7852, 8751
+Conner Jonathan Clark, 6387, 9825
+Zachary Aidan Cloutier, 1478, 9635
+Jonathan Go Co, 3695, 3652
+Justin Jerome Dobrusky, 5225, 8555
+Ran Duan, 6385, 4548
+Patrick Lee Dumas, 4478, 4321
+Geraldine Marie Eleazar, 9648, 9255
+Floranne Tavailau Ellington, 3685, 7852
+Jeffrey Akio Fallejo, 1474, 5462
+Jiarong Feng, 5648, 1211
+Lixiong Feng, 3652, 8955
+Yulun Gao, 8425, 6332
+Cynthia Gonzalez, 8524, 7412
+Gyulnara Grigoryan, 9685, 2536
+Yingshan Guan, 1585, 3685
+Joshua Andrew Guerrero, 7566, 2585
+Bailey Richard Hamilton, 6385, 6887
+Kun Han, 7851, 8525
+Amanda Janelle Hernandez, 6952, 3685
+Damian King Yong Hii, 8569, 2585
+Julie Ho, 4186, 3694
+Yuqi Huai, 3785, 6478
+Lei Huang, 1582, 8564
+Tianzhi Huang, 7528, 1568
+Andrew Matthew Huynh, 3785, 1586
+Hahnara Hyun, 9458, 6485
+Jd Ingal, 2864, 2685
+Nicholas Alexander Innabi, 8564, 3855
+An Ji, 8596, 1588
+Kaifu Jiang, 1548, 3785
+Abigail Paula Jimenez, 8569, 6485
+Shannon May Jusman, 6485, 2580
+Srinath Suresh Kausheeka, 1562, 3560
+Edward Kim, 6855, 9520
+Jae Hyun Kim, 3785, 6852
+Bisher Bennabi Kunbargi, 2585, 8388
+Huu Lam, 3585, 3568
+Kevin Lam, 2585, 3685
+Huy Duc Le, 3784, 1568
+Justin Huy Le, 6952, 2058
+Ki Min Lee, 3508, 3677
+Timothy Gwangyong Lee, 1500, 3855
+Won Joon Lee, 6978, 7890
+Dennis Tom Li, 2585, 3685
+Haoze Li, 1458, 4521
+Shawn Li, 5200, 8560
+Yinxue Li, 3699, 8952
+Yuqing Li, 7852, 3695
+Zican Li, 5648, 7986
+Ruoyu Lin, 8569, 6392
+Shaolong Lin, 8560, 6350
+Jiajun Liu, 8591, 7561
+Yishou Liu, 9623, 3620
+Zixi Liu, 8591, 7541
+Joshua Alejandro Lopez, 9765, 1345
+Richemond Louidor, 5752, 7504
+Melissa Ann Lum, 3955, 4251
+Jacky Luo, 4124, 5254
+William Gerald Lyles, 1425, 7875
+Yuqi Ma, 3633, 9985
+Jesus Madrigal-Simental, 7878, 6966
+Shubham Mahajan, 4122, 7544
+Nitesh Mainaly, 7887, 1422
+Barbara Martinez Neda, 7588, 7888
+Ernesto Buddenbohm III Melendez, 6968, 4588
+Daniel Marcos Mendoza, 8756, 6322
+Joseph David Messerschmidt, 2536, 2222
+Jacob Dean Mikesell, 5558, 3633
+Xinxin Mo, 8555, 7888
+Lazaro Eduardo Morales, 4648, 2130
+Bradley Sean Morton, 9999, 8555
+Samantha Clair Nagle, 2555, 3634
+Daniel Shigeru Nakasone, 7852, 8751
+Sarah Castro Nery, 6387, 9825
+Phat Ngo, 1478, 9635
+Chi Nguyen, 3695, 3652
+Damon Nguyen, 5225, 8555
+Khanh Ngoc Nguyen, 6385, 4548
+Khoa Thanh Anh Nguyen, 4478, 4321
+Marshall Hoang Nguyen, 9648, 9255
+Steven Minh Nguyen, 3685, 7852
+Tam Thai Nguyen, 1474, 5462
+Austin James Nowlen, 5648, 1211
+Shunichi Ono, 3652, 8955
+Terry Orchard, 8425, 6332
+Eliza Jayne Evangelista Ordonez, 8524, 7412
+Mitsuru Otsuka, 9685, 2536
+Yizhou Pan, 1585, 3685
+Minjae Park, 7566, 2585
+Rosetta Hanako Pendleton, 6385, 6887
+Qingyang Peng, 7851, 8525
+Gabriel Sebastian Peraza, 6952, 3685
+Kelvin Huy-Trung Phan, 8569, 2585
+Rafael Antonio Pineda, 4186, 3694
+Farid Syed Rahman, 3785, 6478
+Alex Ivan Ramirez, 1582, 8564
+Jason Zhe Ren, 7528, 1568
+Tyler James Richardson, 3785, 1586
+Max Jeremy Robbins, 9458, 6485
+Joshua Ian Rosenfeld, 2864, 2685
+Kenneth Santarosa, 8564, 3855
+William Edward Scotten, 8596, 1588
+Ynah Maris Sebastian, 1548, 3785
+Mohit Kumar Sehdev, 8569, 6485
+Daniel Dahoon Seo, 6485, 2580
+Christian Agbayani Serrano, 1562, 3560
+Derrick Marty Serrano, 6855, 9520
+Maha Nazish Sheikh, 3785, 6852
+Michael Ben Shenouda, 2585, 8388
+Sarah Beth Singletary, 3585, 3568
+Anthony Santino Sirimarco, 2585, 3685
+Janzal Karlo Garcia Sonza, 3784, 1568
+Zexi Sun, 6952, 2058
+Conghuai Tan, 3508, 3677
+Edwin Tang, 1500, 3855
+Kenny Tat, 6978, 7890
+Jeremy Ivan Tayag, 2585, 3685
+Tristin Trent Thompson, 1458, 4521
+Minh Cong To, 5200, 8560
+Ashley Vannhi Tran, 3699, 8952
+John Thanh-Lam Tran, 7852, 3695
+Kelly Chung Tran, 5648, 7986
+My Thuan Thi Tran, 8569, 6392
+Ryan Thien Tri, 8560, 6350
+Brian Truong, 8591, 7561
+Nicolas Antonio Urrea, 9623, 3620
+Omar Valenzuela, 8591, 7541
+Brian Dang Vu, 9765, 1345
+Ian James Wahl, 5752, 7504
+Chuyi Wang, 3955, 4251
+Deyuan Wang, 4124, 5254
+Evan Wang, 1425, 7875
+Mengqi Wang, 3633, 9985
+Michael Wang, 7878, 6966
+Vesper Wang, 4122, 7544
+Wuchi Wang, 7887, 1422
+Yijian Wang, 7588, 7888
+Jacob Stephen Washburn, 6968, 4588
+Alfianto Pramana Widodo, 8756, 6322
+Zhehao Xie, 2536, 2222
+Ciel Xiong, 5558, 3633
+Jiekai Xu, 8555, 7888
+Yanjie Xu, 4648, 2130
+Zijian Xu, 9999, 8555
+Zinan Xu, 2555, 3634
+Siddharth Yadav, 7852, 8751
+Alexander Vasilyevich Yakovlev, 6387, 9825
+Haixiang Yan, 1478, 9635
+Hao Yan, 3695, 3652
+Nan Yang, 5225, 8555
+Xiaoyan Yang, 6385, 4548
+Timothy Yao, 4478, 4321
+Xiaopeng Yi, 9648, 9255
+Neema Yousefi, 3685, 7852
+Kai Yu, 1474, 5462
+Liangze Yu, 5648, 1211
+Zhenjiang Yu, 3652, 8955
+Chenghao Zhang, 8425, 6332
+Yujie Zhao, 8524, 7412
+Qingze Zhu, 9685, 2536
+Yicheng Zhu, 1585, 3685
+179 rows were retrieved
+
+
+result:
+Aaron Justin Garcia Catarroja, 59854237
+Abigail Paula Jimenez, 55570058
+Alex Ivan Ramirez, 13548341
+Alexander Vasilyevich Yakovlev, 62752368
+Alfianto Pramana Widodo, 55355525
+Amanda Janelle Hernandez, 25618213
+An Ji, 13650541
+Andrew Matthew Huynh, 6003103
+Anthony Santino Sirimarco, 9525818
+Ashley Vannhi Tran, 33113541
+Austin Chiang, 85541538
+Austin James Nowlen, 6839821
+Bailey Richard Hamilton, 43973588
+Barbara Martinez Neda, 59854237
+Bisher Bennabi Kunbargi, 21683073
+Bolin Chen, 5635085
+Bradley Sean Morton, 85541538
+Brian Dang Vu, 13134018
+Brian Truong, 64956644
+Chenghao Zhang, 53347193
+Cheyenne Marie Chavez, 55355525
+Chi Nguyen, 13494233
+Christian Agbayani Serrano, 5560813
+Chuyi Wang, 16812798
+Ciel Xiong, 20192307
+Conghuai Tan, 12899009
+Conner Jonathan Clark, 62752368
+Cynthia Gonzalez, 63179981
+Damian King Yong Hii, 22150958
+Damon Nguyen, 44699968
+Daniel Dahoon Seo, 16731393
+Daniel Marcos Mendoza, 55355525
+Daniel Shigeru Nakasone, 68712945
+David Sanchez Ayala, 16812798
+Dayue Bai, 21667589
+Dennis Bui, 36275598
+Dennis Tom Li, 9525818
+Derrick Marty Serrano, 65259693
+Deyuan Wang, 21667589
+Edward Kim, 65259693
+Edwin Tang, 5782593
+Eliza Jayne Evangelista Ordonez, 63179981
+Ernesto Buddenbohm III Melendez, 31969277
+Evan Wang, 11221968
+Farid Syed Rahman, 24519323
+Floranne Tavailau Ellington, 28934713
+Gabriel Sebastian Peraza, 25618213
+Geraldine Marie Eleazar, 89292333
+Gyulnara Grigoryan, 24561253
+Hahnara Hyun, 61335223
+Haixiang Yan, 14240623
+Hanlu Chen, 20192307
+Hao Yan, 13494233
+Haoze Li, 6591711
+Huu Lam, 12791373
+Huy Duc Le, 5933405
+Ian James Wahl, 43163101
+Jacky Luo, 21667589
+Jacob Dean Mikesell, 20192307
+Jacob Stephen Washburn, 31969277
+Jae Hyun Kim, 25934913
+Janzal Karlo Garcia Sonza, 5933405
+Jason Zhe Ren, 11803997
+Jd Ingal, 7689933
+Jeffrey Akio Fallejo, 8051081
+Jeffrey Bigcas Cando, 31096461
+Jeremy Ivan Tayag, 9525818
+Jessica Chen, 67481933
+Jesus Madrigal-Simental, 54878241
+Jiajun Liu, 64956644
+Jiarong Feng, 6839821
+Jiekai Xu, 67481933
+Jimi Cao, 11215407
+John Thanh-Lam Tran, 29013233
+Jonathan Go Co, 13494233
+Joseph David Messerschmidt, 5635085
+Joshua Alejandro Lopez, 13134018
+Joshua Andrew Guerrero, 19558203
+Joshua Ian Rosenfeld, 7689933
+Julie Ho, 15463177
+Justin Huy Le, 14307309
+Justin Jerome Dobrusky, 44699968
+Kai Yu, 8051081
+Kaifu Jiang, 5859273
+Kelly Chung Tran, 45105021
+Kelvin Huy-Trung Phan, 22150958
+Kenneth Santarosa, 33014313
+Kenny Tat, 55056513
+Kevin Lam, 9525818
+Khanh Ngoc Nguyen, 29039073
+Khoa Thanh Anh Nguyen, 19349531
+Ki Min Lee, 12899009
+Krishen Bhan, 11221968
+Kun Han, 66929868
+Lawrence Chong, 9284963
+Lazaro Eduardo Morales, 9900333
+Lei Huang, 13548341
+Liangze Yu, 6839821
+Lixiong Feng, 32703753
+Luke Chen, 9900333
+Maha Nazish Sheikh, 25934913
+Marshall Hoang Nguyen, 89292333
+Max Jeremy Robbins, 61335223
+Melissa Ann Lum, 16812798
+Mengqi Wang, 36275598
+Michael Ben Shenouda, 21683073
+Michael Wang, 54878241
+Minh Cong To, 44512093
+Minjae Park, 19558203
+Mitsuru Otsuka, 24561253
+Mohit Kumar Sehdev, 55570058
+My Thuan Thi Tran, 54773141
+Nan Yang, 44699968
+Neema Yousefi, 28934713
+Nicholas Alexander Innabi, 33014313
+Nicolas Antonio Urrea, 34835353
+Nitesh Mainaly, 11215407
+Omar Iqbal Chaudhry, 31969277
+Omar Valenzuela, 64784824
+Patrick Lee Dumas, 19349531
+Phat Ngo, 14240623
+Pui Yin Roy Chow, 68712945
+Qingyang Peng, 66929868
+Qingze Zhu, 24561253
+Rafael Antonio Pineda, 15463177
+Ran Duan, 29039073
+Richemond Louidor, 43163101
+Rosetta Hanako Pendleton, 43973588
+Ruoyu Lin, 54773141
+Ryan Thien Tri, 54356093
+Samantha Clair Nagle, 9284963
+Sarah Beth Singletary, 12791373
+Sarah Castro Nery, 62752368
+Shannon May Jusman, 16731393
+Shaolong Lin, 54356093
+Shawn Li, 44512093
+Shubham Mahajan, 31096461
+Shunichi Ono, 32703753
+Siddharth Yadav, 68712945
+Sir Gerad Abad Antes, 43163101
+Srinath Suresh Kausheeka, 5560813
+Steven Minh Nguyen, 28934713
+Tam Thai Nguyen, 8051081
+Terry Orchard, 53347193
+Tianzhi Huang, 11803997
+Timothy Gwangyong Lee, 5782593
+Timothy Yao, 19349531
+Tristin Trent Thompson, 6591711
+Tyler James Richardson, 6003103
+Vesper Wang, 31096461
+William Edward Scotten, 13650541
+William Gerald Lyles, 11221968
+Won Joon Lee, 55056513
+Wuchi Wang, 11215407
+Xiaopeng Yi, 89292333
+Xiaoyan Yang, 29039073
+Xinxin Mo, 67481933
+Yanjie Xu, 9900333
+Yicheng Zhu, 5840818
+Yijian Wang, 59854237
+Yingshan Guan, 5840818
+Yinxue Li, 33113541
+Yishou Liu, 34835353
+Yizhou Pan, 5840818
+Ynah Maris Sebastian, 5859273
+Yujie Zhao, 63179981
+Yulun Gao, 53347193
+Yuqi Huai, 24519323
+Yuqi Ma, 36275598
+Yuqing Li, 29013233
+Yushi Cai, 54878241
+Zachary Aidan Cloutier, 14240623
+Zexi Sun, 14307309
+Zhehao Xie, 5635085
+Zhenjiang Yu, 32703753
+Zican Li, 45105021
+Zijian Xu, 85541538
+Zinan Xu, 9284963
+Zixi Liu, 64784824
+179 rows were retrieved
+
+Database connection terminated
